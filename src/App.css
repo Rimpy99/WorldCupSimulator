@@ -1,0 +1,20 @@
+.container{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(206, 0, 51);
+    color: rgb(255, 228, 196);
+    padding: 10px;
+    letter-spacing: 2px;
+    position: relative;
+}
+
+.gen-btn-container{
+    width: 100%;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,33 @@
+.ros-match{
+    display: flex;
+    position: relative;
+    white-space: nowrap;
+    margin-top: 2px;
+}
+
+input{
+    width: 25px;
+    text-align: center;
+    padding: 2px;
+}
+
+.ros-team1,
+.ros-team2{
+    position: absolute;
+    font-size: 20px;
+}
+
+.ros-team1{
+    right: 105%;
+}
+
+.ros-team2{
+    left: 105%;
+}
+
+@media all and (max-width: 655px){
+    .ros-team1,
+    .ros-team2{
+        font-size: 15px;
+    }
+}

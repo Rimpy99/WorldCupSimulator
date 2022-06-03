@@ -1,0 +1,48 @@
+[{
+    "team1": {"country": "Qatar", "points": 0, "flag": "qatar"},
+    "team2": {"country": "Ecuador", "points": 0, "flag": "ecuador"},
+    "team3": {"country": "Senegal", "points": 0, "flag": "senegal"},
+    "team4": {"country": "Netherlands", "points": 0, "flag": "netherlands"}
+},
+{
+    "team1": {"country": "England", "points": 0, "flag": "england"},
+    "team2": {"country": "Iran", "points": 0, "flag": "iran"},
+    "team3": {"country": "USA", "points": 0, "flag": "usa"},
+    "team4": {"country": "EPW", "points": 0, "flag": "eu"}
+},
+{
+    "team1": {"country": "Argentina", "points": 0, "flag": "argentina"},
+    "team2": {"country": "Saudi Arabia", "points": 0, "flag": "arabia"},
+    "team3": {"country": "Mexico", "points": 0, "flag": "mexico"},
+    "team4": {"country": "Poland", "points": 0, "flag": "poland"}
+},
+{
+    "team1": {"country": "France", "points": 0, "flag": "france"},
+    "team2": {"country": "ICP1", "points": 0, "flag": "eu"},
+    "team3": {"country": "Denmark", "points": 0, "flag": "denmark"},
+    "team4": {"country": "Tunisia", "points": 0, "flag": "tunisia"}
+},
+{
+    "team1": {"country": "Spain", "points": 0, "flag": "spain"},
+    "team2": {"country": "ICP2", "points": 0, "flag": "eu"},
+    "team3": {"country": "Germany", "points": 0, "flag": "germany"},
+    "team4": {"country": "Japan", "points": 0, "flag": "japan"}
+},
+{
+    "team1": {"country": "Belgium", "points": 0, "flag": "belgium"},
+    "team2": {"country": "Canada", "points": 0, "flag": "canada"},
+    "team3": {"country": "Morocco", "points": 0, "flag": "morocco"},
+    "team4": {"country": "Croatia", "points": 0, "flag": "croatia"}
+},
+{
+    "team1": {"country": "Brazil", "points": 0, "flag": "brazil"},
+    "team2": {"country": "Serbia", "points": 0, "flag": "serbia"},
+    "team3": {"country": "Switzerland", "points": 0, "flag": "switzerland"},
+    "team4": {"country": "Cameroon", "points": 0, "flag": "cameroon"}
+},
+{
+    "team1": {"country": "Portugal", "points": 0, "flag": "portugal"},
+    "team2": {"country": "Ghana", "points": 0, "flag": "ghana"},
+    "team3": {"country": "Uruguay", "points": 0, "flag": "uruguay"},
+    "team4": {"country": "South Korea", "points": 0, "flag": "korea"}
+}]
