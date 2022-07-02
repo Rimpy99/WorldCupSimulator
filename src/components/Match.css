@@ -11,6 +11,7 @@ input{
     padding: 2px;
 }
 
+
 .team1,
 .team2{
     position: absolute;
@@ -41,3 +42,4 @@ img{
         height: 12px;
     }
 }
+

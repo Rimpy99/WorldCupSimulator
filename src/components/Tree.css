@@ -42,6 +42,14 @@
     margin: 2px;
 }
 
+.penalty-hidden{
+    width: 17px;
+    height: 17px;
+    margin: 2px;
+    pointer-events:none;
+    opacity: .3;
+}
+
 .untargetable{
     opacity: .3;
     pointer-events: none;

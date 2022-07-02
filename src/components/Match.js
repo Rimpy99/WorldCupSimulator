@@ -16,19 +16,22 @@ const Match = props => {
     const [team2Points, setTeam2Points] = useState();
 
     useEffect(()=>{
-        if(!isNaN(team1Points) && !isNaN(team2Points)){
+
+        if(/^[0-9]+$/.test(team1Points) && /^[0-9]+$/.test(team2Points)){
             if(team1Points > team2Points){
                 setTeam1({points: 3, goals: parseInt(team1Points), wins: 1, draws: 0, losses: 0,})
                 setTeam2({points: 0, goals: parseInt(team2Points), wins: 0, draws: 0, losses: 1,})
             }else if(team2Points > team1Points){
                 setTeam1({points: 0, goals: parseInt(team1Points), wins: 0, draws: 0, losses: 1,})
                 setTeam2({points: 3, goals: parseInt(team2Points), wins: 1, draws: 0, losses: 0,})
-            }else if(team1Points == team2Points){
+            }else if(team1Points === team2Points){
                 setTeam1({points: 1, goals: parseInt(team1Points), wins: 0, draws: 1, losses: 0,})
                 setTeam2({points: 1, goals: parseInt(team2Points), wins: 0, draws: 1, losses: 0,})
             }
         }
     },[team1Points, team2Points]);
+
+   
 
     return(
         <div className="match-list">

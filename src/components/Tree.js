@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useState, useEffect} from 'react';
 import RoundOfSixteen from './RoundOfSixteen';
 import FinalsMatch from './FinalsMatch';
 import Final from './Final';
@@ -28,6 +28,9 @@ const Tree = ({groupA, groupB, groupC, groupD, groupE, groupF, groupG, groupH}) 
     //States for winner from final
     const [finalWinner, setFinalWinner] = useState({name: '', flag: ''});
     
+    useEffect(()=>{
+        console.log(rosWinner1)
+    }, [rosWinner1])
 
     return(
         <div className="tree-container">

@@ -146,7 +146,7 @@ const Group = props =>{
                     </thead>
                     <tbody>
                         {arrayOfTeamsState.map(e=>{return (<tr>
-                            <td className="td-country">{e.country}<img src={require(`./../flags/${e.flag}.png`)}/></td>
+                            <td className="td-country">{e.country}<img src={require(`./../flags/${e.flag}.png`)} alt="Country flag"/></td>
                             <td className="td-points">{e.points}</td>
                             <td className="td-points">{e.goals}</td>
                             <td className="td-points">{e.wins}</td>
