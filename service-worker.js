@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/WorldCupSimulator/precache-manifest.d4863049f12270e9195759ee14b1f417.js"
+  "/WorldCupSimulator/precache-manifest.355ae32dd8351a86d8cc013cdf968e9f.js"
 );
 
 workbox.clientsClaim();

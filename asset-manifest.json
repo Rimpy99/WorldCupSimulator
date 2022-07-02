@@ -1,7 +1,7 @@
 {
-  "main.css": "/WorldCupSimulator/static/css/main.fd3bffee.chunk.css",
-  "main.js": "/WorldCupSimulator/static/js/main.1db522ba.chunk.js",
-  "main.js.map": "/WorldCupSimulator/static/js/main.1db522ba.chunk.js.map",
+  "main.css": "/WorldCupSimulator/static/css/main.e4a462bc.chunk.css",
+  "main.js": "/WorldCupSimulator/static/js/main.ca5dc593.chunk.js",
+  "main.js.map": "/WorldCupSimulator/static/js/main.ca5dc593.chunk.js.map",
   "static/js/1.78d0354b.chunk.js": "/WorldCupSimulator/static/js/1.78d0354b.chunk.js",
   "static/js/1.78d0354b.chunk.js.map": "/WorldCupSimulator/static/js/1.78d0354b.chunk.js.map",
   "runtime~main.js": "/WorldCupSimulator/static/js/runtime~main.6dbc4baf.js",
@@ -10,8 +10,8 @@
   "static/media/ecuador.png": "/WorldCupSimulator/static/media/ecuador.41177582.png",
   "static/media/portugal.png": "/WorldCupSimulator/static/media/portugal.3bd7a4bd.png",
   "static/media/serbia.png": "/WorldCupSimulator/static/media/serbia.1102b4d4.png",
-  "static/css/main.fd3bffee.chunk.css.map": "/WorldCupSimulator/static/css/main.fd3bffee.chunk.css.map",
+  "static/css/main.e4a462bc.chunk.css.map": "/WorldCupSimulator/static/css/main.e4a462bc.chunk.css.map",
   "index.html": "/WorldCupSimulator/index.html",
-  "precache-manifest.d4863049f12270e9195759ee14b1f417.js": "/WorldCupSimulator/precache-manifest.d4863049f12270e9195759ee14b1f417.js",
+  "precache-manifest.355ae32dd8351a86d8cc013cdf968e9f.js": "/WorldCupSimulator/precache-manifest.355ae32dd8351a86d8cc013cdf968e9f.js",
   "service-worker.js": "/WorldCupSimulator/service-worker.js"
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1db522ba2450f7f25324",
-    "url": "/WorldCupSimulator/static/css/main.fd3bffee.chunk.css"
+    "revision": "ca5dc59347e69aef03d8",
+    "url": "/WorldCupSimulator/static/css/main.e4a462bc.chunk.css"
   },
   {
-    "revision": "1db522ba2450f7f25324",
-    "url": "/WorldCupSimulator/static/js/main.1db522ba.chunk.js"
+    "revision": "ca5dc59347e69aef03d8",
+    "url": "/WorldCupSimulator/static/js/main.ca5dc593.chunk.js"
   },
   {
     "revision": "78d0354b2f63aeb6d40d",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/WorldCupSimulator/static/media/serbia.1102b4d4.png"
   },
   {
-    "revision": "33892f3673049283f1619fe9e6b7f969",
+    "revision": "39ce983cb9758fe384215b3d7abe1692",
     "url": "/WorldCupSimulator/index.html"
   }
 ];
